@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/home",
+        "_name": "_77189b5b"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/login",
+        "_name": "_6c33186d"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/login",
+        "_name": "_6c33186d"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/profile",
+        "_name": "_04f581ad"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/settings",
+        "_name": "_2afac49f"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/editor",
+        "_name": "_0da418e9"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/zhoupan/（拉钩）前端学习/拉钩学习课程实例/Part3/模块三/笔记/realworld-nuxtjs/pages/article",
+        "_name": "_2880760c"
+      }
+    ],
+    "_name": "_1972f2a6"
+  }
+]
